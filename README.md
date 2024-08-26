@@ -12,7 +12,7 @@ I'm a **Computer Engineering Student** passionate about technology and software 
 
 ### Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/kavindu-malith-810737213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://www.linkedin.com/in/kavindu-malith-810737213/)
 
 <!-- You can add more sections here like projects, blog posts, etc. -->
 
