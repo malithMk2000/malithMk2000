@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**malithMk2000/malithMk2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering Student** passionate about technology and software development. I'm currently honing my skills in a variety of programming languages and technologies, including:
 
-Here are some ideas to get you started:
+- **HTML**
+- **JavaScript**
+- **PHP**
+- **SQL**
+- **Java**
+- **Python**
+- **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![LinkedIn](https://www.linkedin.com/in/kavindu-malith-810737213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<!-- You can add more sections here like projects, blog posts, etc. -->
+
+Thank you for visiting my profile!
